@@ -17,10 +17,4 @@ This is my personal portfolio website, serving as a virtual resume and showcase 
 ---
 
 ## Live Site
-Visit my portfolio: [**YourName's Portfolio**](https://martinestrin.com)
-
----
-
-## Future Enhancements
-- Add animations for improved interactivity.
-- Include a blog section for sharing insights and experiences.
+Visit my portfolio: [**Martin's Portfolio**](https://martinestrin.com)
